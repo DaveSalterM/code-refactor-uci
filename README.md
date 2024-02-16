@@ -7,7 +7,7 @@ This project was focused on increasing accessibility for users, while cleaning u
 ## Usage
  Follow the link below and navigate our wepage using the links at the top of the page
  
- [https://choosealicense.com/](Horiseon)
+ [https://davesalterm.github.io/code-refactor-uci/](Horiseon)
  
  ![](assets/images/screenshot.png)-->
 
